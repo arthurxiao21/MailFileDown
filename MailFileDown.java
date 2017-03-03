@@ -180,7 +180,7 @@ public class MailFileDown {
 		// 登录邮件服务器，收取邮件
 		String host =  "imap.hdu.edu.cn";//邮箱服务器地址
 		String username = "15031715";//邮箱用户名
-		String password = "Xiao100441;";//邮箱密码
+		String password = "XXXXXXXXXX;";//邮箱密码
 		Properties props = new Properties();//创建空Properties
 		Session session = Session.getDefaultInstance(props,null);
 		
